@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Suryansh 👋  
+🎓 B.Tech in AI & ML | Data Science & Machine Learning Enthusiast  
 
-<!--
-**ffsSuryansh/ffsSuryansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Passionate about AI, NLP, and Computer Vision  
+- Strong foundation in Python, Java, SQL  
+- Love building projects that solve real-world problems  
 
-Here are some ideas to get you started:
+## 🔨 Projects
+### [LegalAid – AI Legal Advisor](https://drive.google.com/drive/folders/1ybDwuKrMcmTMt1JvlWKYrpSbD5oXqWoh )
+- Built with Python + NLP + RAG  
+- Simplifies Indian legal queries  
+- [Demo](https://legalai-frontend.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Handheld 3D Mapping Device](https://drive.google.com/drive/folders/1AMc0FleISyV0Kg0hYHuGweqFWFeK-Ze_)
+- Real-time mapping with Visual SLAM + depth sensors  
+- Applications: Robotics, autonomous navigation  
+
+## 🛠️ Tech Stack
+- **Languages:** Python, Java, SQL  
+- **Data Tools/Librabries:** Scikit-learn, Pandas, NumPy, Matplotlib, etc.  
+- **Database Management:** MySQL  
+- **Visualization:** Tableau, Power BI  
+
+## 📫 Contact
+- LinkedIn: [suryansh-yadav](https://www.linkedin.com/in/suryansh-yadav-04aa512a8)  
+- Email: 03suryanshyadav@gmail.com
+- Mobile No. : 9950831008
